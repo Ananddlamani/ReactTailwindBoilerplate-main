@@ -2,6 +2,39 @@
 
 visit for the gig genius dribbble website [Multi-step-login-form](https://stellar-pony-128c97.netlify.app/)
 
+# Multi-Step Login Form
+This is a responsive multi-step login form built using HTML, CSS, and JavaScript. The form consists of four pages: account creation, profile photo and location details, user description, and email confirmation.
+
+# Features
+1.Responsive design for optimal viewing on desktop and mobile devices
+2.Modern and consistent UI with structured components.
+3.Utilization of external resources like Font Awesome and Tailwind CSS
+4.High-quality images from Unsplash
+# Pages
+1)Sign Up Page 
+User enters details like name, username, email, and password to create an account.
+2)Profile Photo and Location Page
+User can upload a profile photo or choose from default avatars.
+User provides location details.
+3)User Description Page
+User can select options to describe themselves for better user experience.
+4)Email Confirmation Page
+User's email is confirmed.
+Footer with platform details is displayed.
+# Technologies Used
+HTML5
+CSS3
+JavaScript
+React
+Tailwind CSS
+Font Awesome
+Unsplash (for high-quality images)
+
+# to run in localhost:300 
+Download the zip file 
+open code editor (I used Visual studio code)
+run the following commands in the terminal
+
 ### `npm install`
 this command provides the node modules 
 
