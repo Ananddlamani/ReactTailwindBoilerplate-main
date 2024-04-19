@@ -32,7 +32,7 @@ Unsplash (for high-quality images)
 
 # to run in localhost:300 
 Download the zip file 
-open code editor (I used Visual studio code)
+open the extracted folder in the code editor (I preferred Visual studio code)
 run the following commands in the terminal
 
 ### `npm install`
