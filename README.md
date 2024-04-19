@@ -2,7 +2,7 @@
 
 visit for the gig genius dribbble website [Multi-step-login-form](https://stellar-pony-128c97.netlify.app/)
 
-# 'npm install'
+### `npm install`
 this command provides the node modules 
 
 ### `npm start`
