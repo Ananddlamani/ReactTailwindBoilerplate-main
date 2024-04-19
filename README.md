@@ -2,6 +2,15 @@
 
 visit for the gig genius dribbble website [Multi-step-login-form](https://stellar-pony-128c97.netlify.app/)
 
+# 'npm install'
+this command provides the node modules 
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
